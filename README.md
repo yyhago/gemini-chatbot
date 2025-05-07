@@ -2,6 +2,9 @@
 
 Chatbot Inteligente com IA Generativa, uma base de um sistema de conversação utilizando a API do Gemini para interações textuais em tempo real via Streamlit
 
+## 🖼️ Projeto:
+![Pagina Inicial](./assets/image.png)
+
 ## 🚀 Funcionalidades
 
 * 🔍 Suporte a múltiplos modelos Gemini (Flash, Pro), basta apenas alterar métodos.
